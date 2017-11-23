@@ -1,0 +1,68 @@
+a {
+  color: #5a5a5a;
+}
+
+.details ul {
+  margin: 10px 0 0 20px;
+  list-style-position: outside;
+}
+
+
+ .component-header {
+     margin-top: 15px;
+     padding-bottom: 0;
+ }
+
+ .heavy-emphasis {
+  font-size: 2.3em;
+ }
+
+ .medium-emphasis {
+  font-size: 2em;
+  margin-bottom: 0;
+ }
+
+ .details {
+     border-top: 1px solid #efefef;
+     padding-top: 10px;
+ }
+
+.pres-details {
+  margin: 0 10px 5px 0;
+  font-style: italic;
+}
+
+ .details h3 {
+  font-size: 1.6em;
+  margin-bottom: 7px;
+ }
+
+ .contact {
+     margin-top: 40px;
+     position: relative;
+ }
+
+ .contact-details {
+  padding: 0;
+  margin: 0;
+ }
+
+ .component-header h4,
+ .details h5 {
+     margin-bottom: 4px; 
+ }
+
+ .accessibility{
+  position: absolute !important;
+   top: -9999px !important;
+   left: -9999px !important;
+ }
+
+ .footnotes {
+  margin-top: 140px;
+  font-style: italic;
+ }
+
+ .note {
+  margin-top: 15px;
+ }
