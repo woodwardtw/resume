@@ -58,6 +58,11 @@ a {
    left: -9999px !important;
  }
 
+.more {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
  .footnotes {
   margin-top: 140px;
   font-style: italic;
