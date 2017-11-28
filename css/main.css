@@ -7,6 +7,12 @@ a {
   list-style-position: outside;
 }
 
+.center {
+  text-align: center;
+  margin: auto;
+  display: block;
+  margin: 10px 10px 18px 10px;
+}
 
  .component-header {
      margin-top: 15px;
@@ -23,7 +29,7 @@ a {
  }
 
  .details {
-     border-top: 1px solid #efefef;
+     border-top: 1px solid #3498db;
      padding-top: 10px;
  }
 
@@ -70,4 +76,16 @@ a {
 
  .note {
   margin-top: 15px;
+ }
+
+ .edu {
+  height: 80px;
+ }
+
+ #impact, #education {
+  margin-top: 15px;
+ }
+
+ #footnotes {
+  margin-top: 30px;
  }
