@@ -2,6 +2,14 @@ a {
   color: #5a5a5a;
 }
 
+p {
+  font-size: 1em;
+}
+
+li {
+      margin-bottom: .5rem;
+}
+
 .details ul {
   margin: 10px 0 0 20px;
   list-style-position: outside;
@@ -20,11 +28,11 @@ a {
  }
 
  .heavy-emphasis {
-  font-size: 2.3em;
+  font-size: 2em;
  }
 
  .medium-emphasis {
-  font-size: 2em;
+  font-size: 1.9em;
   margin-bottom: 0;
  }
 
